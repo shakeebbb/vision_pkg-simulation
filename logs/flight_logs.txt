@@ -1,0 +1,1816 @@
+Sat May 19 14:46:15 2018
+
+ # Mode 1 
+ Got New Waypoints From LQR Solver: [-0.11533456, 1.7626282e-05, 0.7528621;
+ 0.092580378, 1.8749399e-05, 0.75968361;
+ 0.4028554, 1.9264287e-05, 0.77014703;
+ 0.78902358, 1.9279369e-05, 0.78332263;
+ 1.228228, 1.8892182e-05, 0.79840648;
+ 1.7009882, 1.8189507e-05, 0.81471252;
+ 2.1909425, 1.7247661e-05, 0.83166379;
+ 2.6845767, 1.6132981e-05, 0.8487829]
+ Checking For Collisions .......... 
+Point in Collision : [1.70099, 1.81895e-05, 0.814713]
+Finding Escape in Directions : 1111
+Found Escape in Direction : 0100
+Goal Changed : [1.70099, 1.81895e-05, 3.31471]
+Will Enter Mode 2 Next Time To Build Avoid Trajectory ............... 
+Sat May 19 14:46:15 2018
+
+ # Mode 2 
+Initial State =    -0.189625
+  0.00174217
+  1.6045e-05
+-7.59112e-06
+    0.750129
+ -0.00128263
+ Got New Waypoints From LQR Solver: [-0.098055847, 1.4983567e-05, 0.8737812;
+ 0.12908876, 1.4674364e-05, 1.1816268;
+ 0.41333711, 1.4833602e-05, 1.5671264;
+ 0.70342386, 1.5250565e-05, 1.9606662;
+ 0.96889663, 1.5777516e-05, 2.3208838;
+ 1.1943789, 1.6317694e-05, 2.6268828;
+ 1.374768, 1.6813412e-05, 2.8717172;
+ 1.5114447, 1.723533e-05, 3.0572448]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [-0.098055847, 1.4983567e-05, 0.8737812;
+ 0.12908876, 1.4674364e-05, 1.1816268;
+ 0.41333711, 1.4833602e-05, 1.5671264;
+ 0.70342386, 1.5250565e-05, 1.9606662]
+ New End State: [ 0.703424, 1.41588, 1.52506e-05, 2.50875e-06, 1.96067, 1.92105]
+Sat May 19 14:46:15 2018
+
+ # Mode 2 
+Initial State =    0.703424
+    1.41588
+1.52506e-05
+2.50875e-06
+    1.96067
+    1.92105
+ Got New Waypoints From LQR Solver: [0.96889663, 1.5777516e-05, 2.3208838;
+ 1.1943789, 1.6317694e-05, 2.6268828;
+ 1.374768, 1.6813412e-05, 2.8717172;
+ 1.5114447, 1.723533e-05, 3.0572448;
+ 1.6094358, 1.7573473e-05, 3.1902769;
+ 1.6754084, 1.7830112e-05, 3.2798545;
+ 1.7163417, 1.8014449e-05, 3.3354461;
+ 1.7387235, 1.8138828e-05, 3.365854]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [0.96889663, 1.5777516e-05, 2.3208838;
+ 1.1943789, 1.6317694e-05, 2.6268828;
+ 1.374768, 1.6813412e-05, 2.8717172;
+ 1.5114447, 1.723533e-05, 3.0572448]
+ New End State: [ 1.51144, 0.578852, 1.72353e-05, 1.90303e-06, 3.05724, 0.785801]
+Sat May 19 14:46:15 2018
+
+ # Mode 2 
+Initial State =     1.51144
+   0.578852
+1.72353e-05
+1.90303e-06
+    3.05724
+   0.785801
+ Finished Generating Avoid Trajectory ... Going To Mode 3 with doEscape = 0, Avoid Goal = [1.70099, 1.81895e-05, 3.31471]
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:15 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:16 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:16 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:16 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:16 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:16 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:16 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+Point in Collision : [4.04737, 1.87453e-05, 3.62622]
+Restting Waypoints ... 
+Sat May 19 14:46:19 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641;
+ 2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [1.6721221, 1.758659e-05, 3.2008729;
+ 1.9116925, 1.7881566e-05, 3.3187387;
+ 2.2097476, 1.8125169e-05, 3.4134448;
+ 2.5486641, 1.8322409e-05, 3.4875641]
+ New End State: [ 2.54866, 1.77639, 1.83224e-05, 8.76592e-07, 3.48756, 0.32231]
+Sat May 19 14:46:19 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193;
+ 4.4102383, 1.8782197e-05, 3.632201;
+ 4.755703, 1.8799561e-05, 3.6304357;
+ 5.0800152, 1.8800889e-05, 3.6224768;
+ 5.380599, 1.8789293e-05, 3.6097016]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [2.9134223, 1.847828e-05, 3.543592;
+ 3.2914078, 1.8597653e-05, 3.58391;
+ 3.6722023, 1.8685201e-05, 3.6107588;
+ 4.0473685, 1.8745342e-05, 3.6262193]
+ New End State: [ 4.04737, 1.85239, 1.87453e-05, 2.37534e-07, 3.62622, 0.0513283]
+Sat May 19 14:46:19 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [4.4102383, 1.8782197e-05, 3.632201;
+ 4.755703, 1.8799561e-05, 3.6304357;
+ 5.0800152, 1.8800889e-05, 3.6224768;
+ 5.380599, 1.8789293e-05, 3.6097016;
+ 5.6558743, 1.8767545e-05, 3.593318;
+ 5.9050946, 1.8738083e-05, 3.5743716;
+ 6.1281991, 1.8703027e-05, 3.5537565;
+ 6.3256803, 1.8664199e-05, 3.5322263]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [4.4102383, 1.8782197e-05, 3.632201;
+ 4.755703, 1.8799561e-05, 3.6304357;
+ 5.0800152, 1.8800889e-05, 3.6224768;
+ 5.380599, 1.8789293e-05, 3.6097016]
+ New End State: [ 5.3806, 1.44105, 1.87893e-05, -8.66078e-08, 3.6097, -0.0743027]
+Sat May 19 14:46:19 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [5.6558743, 1.8767545e-05, 3.593318;
+ 5.9050946, 1.8738083e-05, 3.5743716;
+ 6.1281991, 1.8703027e-05, 3.5537565;
+ 6.3256803, 1.8664199e-05, 3.5322263;
+ 6.4984641, 1.8623141e-05, 3.5104063;
+ 6.6478081, 1.8581139e-05, 3.4888051;
+ 6.775207, 1.8539249e-05, 3.4678271;
+ 6.8823195, 1.8498316e-05, 3.4477851]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [5.6558743, 1.8767545e-05, 3.593318;
+ 5.9050946, 1.8738083e-05, 3.5743716;
+ 6.1281991, 1.8703027e-05, 3.5537565;
+ 6.3256803, 1.8664199e-05, 3.5322263]
+ New End State: [ 6.32568, 0.924268, 1.86642e-05, -2.01479e-07, 3.53223, -0.10908]
+Sat May 19 14:46:19 2018
+
+ # Mode 3 
+ New Goal :           7
+          0
+1.81895e-05
+          0
+    3.31471
+          0
+ Got New Waypoints From LQR Solver: [6.4984641, 1.8623141e-05, 3.5104063;
+ 6.6478081, 1.8581139e-05, 3.4888051;
+ 6.775207, 1.8539249e-05, 3.4678271;
+ 6.8823195, 1.8498316e-05, 3.4477851;
+ 6.9708982, 1.8459003e-05, 3.428911;
+ 7.0427375, 1.8421804e-05, 3.4113667;
+ 7.0996265, 1.8387078e-05, 3.3952556;
+ 7.1433139, 1.8355056e-05, 3.3806305]
+ Checking For Collisions .......... 
+ Trimmed Waypoints: [6.4984641, 1.8623141e-05, 3.5104063;
+ 6.6478081, 1.8581139e-05, 3.4888051;
+ 6.775207, 1.8539249e-05, 3.4678271;
+ 6.8823195, 1.8498316e-05, 3.4477851]
+ New End State: [ 6.88232, 0.486995, 1.84983e-05, -2.01333e-07, 3.44779, -0.0975339]
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:19 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:21 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:22 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:23 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:25 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:25 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:25 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:26 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:27 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:28 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:29 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:31 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:31 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:31 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:31 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:31 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:32 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:33 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:34 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E
+Sat May 19 14:46:35 2018
+
+M I S S I O N ... C O M P L E T E

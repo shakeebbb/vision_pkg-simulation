@@ -1,0 +1,7 @@
+<launch>
+		
+
+		<node name="drone_pose_node" pkg="vision_pkg" type="drone_pose_node" output="screen"/>
+		<node name="vision_node" pkg="vision_pkg" type="vision_node" output="screen"/>
+		
+</launch>
